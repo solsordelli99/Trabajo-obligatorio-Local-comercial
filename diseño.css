@@ -383,11 +383,6 @@ body.sobre-nosotros .about-values .card ul {
   padding-left: 0;
 }
 
-/* ============================= */
-/*        RESPONSIVE FIXES       */
-/* ============================= */
-
-/* Tablets y pantallas medianas */
 @media (max-width: 1024px) {
   .nav-container {
     flex-wrap: wrap;
@@ -427,7 +422,6 @@ body.sobre-nosotros .about-values .card ul {
   }
 }
 
-/* Celulares */
 @media (max-width: 768px) {
   nav {
     padding: 10px 15px;
@@ -520,7 +514,6 @@ body.sobre-nosotros .about-values .card ul {
   }
 }
 
-/* Celulares chicos */
 @media (max-width: 480px) {
   nav a {
     font-size: 16px;
@@ -546,3 +539,4 @@ body.sobre-nosotros .about-values .card ul {
 }
 
   
+
